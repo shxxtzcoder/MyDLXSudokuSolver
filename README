@@ -1,9 +1,5 @@
 SudokuSolver is a C++ library and sample app that can solve any Suduko game
-board that can be resolved with standard elimination and deduction logic. This
-is code that I originally wrote in 2006 and 2007. I recently rediscovered the
-code as a result of inspecting an old hard drive. For this GitHub release, I
-cleaned up the code, added modern C++ 11 styles, and made it cross-compile on
-both Windows and Unix.
+board that can be resolved with standard elimination and deduction logic.
 
 There are some published Suduko puzzles on the Internet that claim to be
 "worlds hardest Suduko" or labeled as "hard", but require the solver to use
